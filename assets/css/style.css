@@ -1,0 +1,27 @@
+table {
+  border-collapse: collapse;
+}
+
+table td {
+  padding: 10px;
+}
+
+td.even {
+  background-color: #4f8090; 
+}
+
+td.odd {
+  background-color: #598492; 
+}
+
+td.border {
+  background-color: #5a5a5a; 
+}
+
+td.snake {
+  background-color: red;
+}
+
+td.point {
+  background-color: yellow;
+}
